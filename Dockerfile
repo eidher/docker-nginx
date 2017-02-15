@@ -1,5 +1,5 @@
 FROM eidher/docker-centos-supervisor:latest
-MAINTAINER Marcin Ryzycki marcin@m12.io, Przemyslaw Ozgo linux@ozgo.info
+MAINTAINER Marcin Ryzycki marcin@m12.io, Przemyslaw Ozgo linux@ozgo.info, Eidher Escalona eidher.escalona@gmail.com
 
 ADD container-files/etc/yum.repos.d/nginx.repo /etc/yum.repos.d/
 
